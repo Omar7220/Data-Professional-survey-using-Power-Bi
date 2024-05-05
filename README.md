@@ -7,7 +7,9 @@ Welcome to the Data Field Insights Dashboard repository! This Power BI dashboard
 - **Career Shift Statistics:** Explore the percentage of individuals who have transitioned into the data field from other career paths.
 - **Additional Insights:** Find other useful insights such as demographic trends, job satisfaction rates, and more.
 
-
-
-
+## Dashboard Preview:
 ![Dashboard](https://github.com/Omar7220/Data-Proffisional-survey-/assets/91997061/de76e2f7-d625-4f49-85a8-2f0d1175f00c)
+
+## Data Sources: 
+- Survey Data: The insights in this dashboard are based on data collected from surveys conducted within the data industry.https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
+
